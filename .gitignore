@@ -1,0 +1,25 @@
+# TIA Portal temporary and log files
+*.log
+*.tmp
+*.bak
+~*
+
+# TIA Portal project locks and internal database files
+/Logs/
+/Internal/
+/TMP/
+
+# User-specific settings 
+/UserFiles/
+*.uv9
+
+# PLCSIM and Simulation files
+/Simulation/
+*.sim
+*.bin
+
+
+# Compiled data 
+/IM/
+/System/
+
