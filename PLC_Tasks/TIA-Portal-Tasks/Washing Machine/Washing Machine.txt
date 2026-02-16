@@ -1,0 +1,7 @@
+Washing Machine
+
+When the Start button is pressed, the motor runs clockwise for 5 seconds, then stops for 2 seconds.
+After that, the motor runs counterclockwise for 5 seconds, then stops for 2 seconds.
+Then the motor runs clockwise again, and the cycle continues repeatedly.
+
+When the Stop button is pressed, the system stops at any time.

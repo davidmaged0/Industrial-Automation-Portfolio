@@ -1,0 +1,12 @@
+							5 Run - 2 Stop For 2 Motors
+
+> When the Start button is pressed, a candy-making machine begins its operation. The process consists of two stages for stretching and shaping the sugar.
+
+> First, a small motor operates to stretch the candy horizontally for 5 seconds, then stops to allow the candy to rest for 2 seconds.
+>It then stretches again for 5 seconds, followed by a 2-second rest.
+>The process is repeated a third time (5 seconds operation, then 2 seconds rest).
+
+>After the final 2-second rest of the first stage, another small motor starts to stretch the candy vertically. This motor repeats the same previous cycle three times, but in the vertical direction. The overall process then continues in repetition.
+
+> Pressing the Stop button stops the system at any time.
+> If the candy quality is not acceptable, the process resumes from the point where it stopped when the machine is started again.
