@@ -4,6 +4,19 @@
 *.bak
 ~*
 
+
+# EPLAN backups
+*.bak
+*.tmp
+
+# Output files
+*.pdf
+*.dxf
+
+# Temp folders
+temp/
+
+
 # TIA Portal project locks and internal database files
 /Logs/
 /Internal/
